@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Kizumonogatari - BD"
-thumbnail-img: "https://tpn-team.github.io/assets/img/kizumonogatari_thumb.jpg"
 share-description: ""
 tags: [Kizumonogatari]
 comments: false

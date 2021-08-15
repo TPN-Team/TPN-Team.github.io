@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Mahoutsukai no Yome - BD"
-thumbnail-img: "https://tpn-team.github.io/assets/img/mahoutsukai_thumb.jpg"
 share-description: ""
 tags: [Mahoutsukai]
 comments: false
