@@ -7,6 +7,7 @@ title: Projects
 
 | Project | Info |
 | :--- | :--- |
+| ![Akame ga Kill!](https://tpn-team.github.io/assets/img/akame.jpg) | **Akame ga Kill!** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Akame%20ga%20Kill!.md) <br><br> **Nhân Sự**: tuilakhanh |
 | ![Assassins Pride](https://tpn-team.github.io/assets/img/AssassinsPride.jpg) | **Assassins Pride** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Assassins%20Pride.md) <br><br> **Nhân Sự**: Phi Wibu |
 | ![Assault Lily](https://tpn-team.github.io/assets/img/AssaultLily.jpg) | **Assault Lily Bouquet** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Assault%20Lily.md) <br><br> **Nhân Sự**: tuilakhanh |
 | ![Bokutachi](https://tpn-team.github.io/assets/img/Bokutachi.jpg) | **Bokutachi wa Benkyou ga Dekinai** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Bokutachi.md) <br><br> **Nhân Sự**: Phi Wibu |
