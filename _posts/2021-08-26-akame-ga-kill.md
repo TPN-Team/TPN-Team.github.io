@@ -11,7 +11,7 @@ comments: false
 <b>Số tập:</b> 24 <br>
 <b>Studio:</b> White Fox <br>
 <b>Thể loại:</b> Action, Adventure, Drama, Fantasy, Horror, Psychological, Thriller <br>
-<b>Nội dung: Một chàng trai nhà quê lên tỉnh, bị ngay cô nàng ngực bự lừa không còn 1 xu. Sau đó bla bla chàng ta lại tham gia vào nhóm sát thủ để chống lại Vương triều thối nát. </b> 
+<b>Nội dung: Một chàng trai nhà quê lên tỉnh, bị ngay cô nàng ngực bự lừa không còn 1 xu. Sau đó bla bla chàng ta lại tham gia vào nhóm sát thủ để chống lại Vương triều thối nát.
  <br>
 
 <hr>
