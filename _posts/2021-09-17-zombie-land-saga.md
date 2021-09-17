@@ -17,7 +17,7 @@ comments: false
 <hr>
 
 <b>Nhân sự:</b> Kiếm Phong Kim <br>
-Cảm ơn <b>YamiSora - XXX</b> đã làm ra bản dịch chất lượng này. <br>
+Cảm ơn <b>YamiSora và XXX</b> đã làm ra bản dịch chất lượng này. <br>
 Chúc các bạn xem film vui vẻ!<br><br>
 <b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Zombie%20Land%20Saga.md">DDL</a></b> <br>
 </center>
