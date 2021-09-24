@@ -11,7 +11,7 @@ comments: false
 <b>Số tập:</b> 12 <br>
 <b>Studio:</b> Doga Kobo <br>
 <b>Thể loại:</b> Comedy, Slice of Life <br>
-<b>Nội dung:</b> Yuri Vũ Trụ.
+<b>Nội dung:</b> Yuri cuồng Vũ Trụ.
  <br>
 
 <hr>
