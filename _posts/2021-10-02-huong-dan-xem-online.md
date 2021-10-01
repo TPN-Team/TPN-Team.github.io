@@ -18,7 +18,7 @@ Các bạn vào trang download của Team chọn file Anime muốn xem sau đó 
 
 ![mpv.net](https://tpn-team.github.io/assets/img/tut/mpv.net.jpg){: .mx-auto.d-block :}
 
-Đối với mpv bản gốc thì các bạn cũng Copy Link như trên sau đó vào folder chưa mpv.exe mở cmd tại folder đó sau đó các bạn gõ lệnh ~~~mpv <Link vừa Copy>~~~ sau đó Enter, để dễ hiểu các bạn xem hình minh hoạ ở dưới đây.
+Đối với mpv bản gốc thì các bạn cũng Copy Link như trên sau đó vào folder chưa mpv.exe mở cmd tại folder đó sau đó các bạn gõ lệnh `mpv (Link vừa Copy)` sau đó Enter, để dễ hiểu các bạn xem hình minh hoạ ở dưới đây.
 
 ![mpv](https://tpn-team.github.io/assets/img/tut/mpv.jpg){: .mx-auto.d-block :}
 
