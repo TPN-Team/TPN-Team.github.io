@@ -5,7 +5,8 @@ share-description: ""
 tags: [Hướng Dẫn]
 comments: false
 ---
-Các bạn muốn xem Anime chất lượng cao nhưng ổ cứng các bạn không đủ? Các bạn muốn xem anime chất lượng cao của Team nhưng lại lười Download về để xem? Đây sẽ là tut dành cho các bạn nào gặp nhưng trường hợp như trên.
+Các bạn muốn xem Anime chất lượng cao nhưng ổ cứng các bạn không được lớn? Các bạn muốn xem anime chất lượng cao của Team nhưng lại lười Download về để xem? Đây sẽ là tut dành cho các bạn nào gặp nhưng trường hợp như trên.
+
 Trước khi bắt đầu mình xin được lưu ý, Team chỉ support cho player là mpv để có được trải nghiệm tốt nhất vui lòng hay sử dụng mpv để xem hàng của nhóm!
 
 ## Đối với máy tính
@@ -44,7 +45,9 @@ _Lưu ý mình chỉ khuyến khích các bạn sử dụng mpv-android. MX-Play
 
 **IOS**
 
-Đối với IOS các bạn cần cài app có tên là [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) đây là một player dựa trên mpv. Sau đó các bạn vào web của Team chọn Anime muốn xem kéo xuống chọn **Copy** sau đó các bạn mở **Outplayer** chọn **Open -> Open URL** , để dễ hiểu các bạn xem hình minh hoạ ở dưới đây.
+Đối với IOS các bạn cần cài app có tên là [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) đây là một player dựa trên mpv. Sau đó các bạn vào web của Team chọn Anime muốn xem kéo xuống chọn **Copy** sau đó các bạn mở **Outplayer** và làm theo hướng dẫn của hình minh hoạ ở dưới đây.
+
+![outplayer](https://tpn-team.github.io/assets/img/tut/outplayer.jpg){: .mx-auto.d-block :}
 
 Bài hướng dẫn của Team đến đây là hết, chúc các bạn thành công!
 <!-- excerpt-end -->
