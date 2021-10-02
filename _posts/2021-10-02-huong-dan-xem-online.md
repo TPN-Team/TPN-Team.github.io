@@ -35,8 +35,6 @@ Mình không có Mác Bút ở đây nhưng mình cũng sẽ hướng dẫn sơ 
 
 ![iina](https://tpn-team.github.io/assets/img/tut/iina.jpg){: .mx-auto.d-block :}
 
-***
-
 ## Đối với điện thoại
 
 **Android**
@@ -45,7 +43,8 @@ Mình không có Mác Bút ở đây nhưng mình cũng sẽ hướng dẫn sơ 
 
 ![iina](https://tpn-team.github.io/assets/img/tut/mpv-android.jpg){: .mx-auto.d-block :}
 
-{: .box-warning} _Lưu ý mình chỉ khuyến khích các bạn sử dụng mpv-android. MX-Player, VLC, nPlayer sẽ mất thời gian **Build Font Cache** khá lâu chưa kể sub đọc ko được chuẩn như mpv-android._
+{: .box-warning}
+ **Lưu ý** mình chỉ khuyến khích các bạn sử dụng mpv-android. MX-Player, VLC, nPlayer sẽ mất thời gian **Build Font Cache** khá lâu chưa kể sub đọc ko được chuẩn như mpv-android.
 
 **IOS**
 
