@@ -44,7 +44,7 @@ Mình không có Mác Bút ở đây nhưng mình cũng sẽ hướng dẫn sơ 
 ![iina](https://tpn-team.github.io/assets/img/tut/mpv-android.jpg){: .mx-auto.d-block :}
 
 {: .box-warning}
- **Lưu ý** mình chỉ khuyến khích các bạn sử dụng mpv-android. MX-Player, VLC, nPlayer sẽ mất thời gian **Build Font Cache** khá lâu chưa kể sub đọc ko được chuẩn như mpv-android.
+ **Lưu ý** mình chỉ khuyến khích các bạn sử dụng mpv-android. MX-Player, VLC, nPlayer sẽ mất thời gian **Build Font Cache** khá lâu chưa kể sub đọc ko được chuẩn như mpv-android. Các bạn phải sử dụng trình duyệt Chrome hoặc những trình duyệt tương tự, trình duyệt của app Facebook sẽ không hoạt động.
 
 **IOS**
 
