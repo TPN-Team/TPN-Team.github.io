@@ -7,6 +7,7 @@ title: Projects
 
 | Project | Info |
 | :--- | :--- |
+| ![3-gatsu no Lion](https://tpn-team.github.io/assets/img/3gatsu.jpg) | **3-gatsu no Lion** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/3-gatsu%20no%20Lion.md) <br><br> **Nhân Sự**: Josée |
 | ![Akame ga Kill!](https://tpn-team.github.io/assets/img/akame.jpg) | **Akame ga Kill!** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Akame%20ga%20Kill!.md) <br><br> **Nhân Sự**: tuilakhanh |
 | ![Assassins Pride](https://tpn-team.github.io/assets/img/AssassinsPride.jpg) | **Assassins Pride** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Assassins%20Pride.md) <br><br> **Nhân Sự**: Phi Wibu |
 | ![Assault Lily](https://tpn-team.github.io/assets/img/AssaultLily.jpg) | **Assault Lily Bouquet** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Assault%20Lily.md) <br><br> **Nhân Sự**: tuilakhanh |
