@@ -17,7 +17,7 @@ comments: false
 <hr>
 
 <b>Nhân sự:</b> Josée <br>
-Cảm ơn <b>ABFS</b>(Season 1) và <b>VNStudio</b>(Season 2) đã làm ra bản dịch chất lượng này. <br>
+Cảm ơn <b>ABFS(Season 1)</b> và <b>VNStudio(Season 2)</b> đã làm ra bản dịch chất lượng này. <br>
 Chúc các bạn xem film vui vẻ!<br><br>
 <b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/3-gatsu%20no%20Lion.md">DDL</a></b> <br>
 </center>

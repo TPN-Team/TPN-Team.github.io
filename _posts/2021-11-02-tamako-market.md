@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tamako Market- BD"
+title: "Tamako Market - BD"
 share-description: ""
 tags: [Tamako Market]
 comments: false
@@ -17,7 +17,7 @@ comments: false
 <hr>
 
 <b>Nhân sự:</b> Josée <br>
-Cảm ơn <b>A4VF - YamiSora</b>(TVs) và <b>YamiSora</b>(Movie) đã làm ra bản dịch chất lượng này. <br>
+Cảm ơn <b>A4VF - YamiSora(TVs)</b> và <b>YamiSora(Movie)</b> đã làm ra bản dịch chất lượng này. <br>
 Chúc các bạn xem film vui vẻ!<br><br>
 <b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Tamako%20Market.md">DDL</a></b> <br>
 </center>
