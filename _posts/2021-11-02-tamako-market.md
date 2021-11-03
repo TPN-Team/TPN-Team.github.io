@@ -8,7 +8,7 @@ comments: false
 
 ![Thumb](https://tpn-team.github.io/assets/img/TamakoMarket_thumb.jpg){: .mx-auto.d-block :}
 <center>
-<b>Số tập:</b> 12 + 1 Movie <br>
+<b>Số tập:</b> 12 EP + 1 Movie <br>
 <b>Studio:</b> Kyoto Animation <br>
 <b>Thể loại:</b> Comedy, Slice of Life <br>
 <b>Nội dung:</b> Ở một vương quốc xa xôi nọ có một chàng hoàng tử. Hoàng tử gửi chim đi tìm hôn thê. Con chim ấy lạc đến một khu phố mua sắm và gặp gỡ Tamako, con gái của một gia đình làm mochi, và thế là đủ thứ chuyện bắt đầu.
