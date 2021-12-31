@@ -9,6 +9,7 @@ title: Projects
 | :--- | :--- |
 | ![3-gatsu no Lion](https://tpn-team.github.io/assets/img/3gatsu.jpg) | **3-gatsu no Lion** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/3-gatsu%20no%20Lion.md) <br><br> **Nhân Sự**: Josée |
 | ![86](https://tpn-team.github.io/assets/img/86.jpg) | **86 - Eight Six** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/86%20-%20Eight%20Six.md) <br><br> **Nhân Sự**: tuilakhanh |
+| ![Accel World](https://tpn-team.github.io/assets/img/Accel_World.jpg) | **Accel World** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Accel%20World.md) <br><br> **Nhân Sự**: Sơn Đầu Hoà, Kiếm Phong Kim |
 | ![Akame ga Kill!](https://tpn-team.github.io/assets/img/akame.jpg) | **Akame ga Kill!** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Akame%20ga%20Kill!.md) <br><br> **Nhân Sự**: tuilakhanh |
 | ![Assassins Pride](https://tpn-team.github.io/assets/img/AssassinsPride.jpg) | **Assassins Pride** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Assassins%20Pride.md) <br><br> **Nhân Sự**: Phi Wibu |
 | ![Assault Lily](https://tpn-team.github.io/assets/img/AssaultLily.jpg) | **Assault Lily Bouquet** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Assault%20Lily.md) <br><br> **Nhân Sự**: tuilakhanh |

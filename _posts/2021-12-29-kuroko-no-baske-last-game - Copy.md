@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gekijouban Kuroko no Baske: Last Game"
+title: "Gekijouban Kuroko no Baske: Last Game - BD"
 share-description: ""
 tags: [Kuroko no Baske]
 comments: false
@@ -17,6 +17,7 @@ comments: false
 <hr>
 
 <b>Nhân sự:</b> Kiếm Phong Kim <br>
+Cảm ơn <b>DMFS</b> đã làm ra bản dịch chất lượng này. <br>
 Chúc các bạn xem film vui vẻ!<br><br>
 <b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Kuroko%20no%20Baske%20Last%20Game.md">DDL</a></b> <br>
 </center>
