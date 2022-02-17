@@ -16,7 +16,7 @@ comments: false
 
 <hr>
 
-<b>Nhân sự:</b> tuilakhanh, Bố Vk <br>
+<b>Nhân sự:</b> tuilakhanh, Bố Vk, Josée <br>
 Cảm ơn <b>HLTS và JPN</b> đã làm ra bản dịch chất lượng này.<br>
 Một số thông tin thêm về bản dịch xem <a href="https://hunglenthisub.blogspot.com/2014/02/kara-no-kyoukai-garden-of-sinners-bd.html">tại đây</a><br>
 Chúc các bạn năm mới vui vẻ!<br><br>
