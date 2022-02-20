@@ -17,7 +17,7 @@ comments: false
 <hr>
 
 <b>Nhân sự:</b> Xem tại <a href="https://fansub.animuri.page/majo-no-tabitabi">Animuri</a> <br>
-Vì bộn bề công việc thời gian không cho phép nên bọn mình sẽ drop Moonrunes đối với Vol 2 (Tập 7 -> 12). Mong các bạn thông cảm với bọn mình!
+Vì bộn bề công việc thời gian không cho phép nên bọn mình sẽ drop Moonrunes đối với Vol 2 (Tập 7 -> 12). Mong các bạn thông cảm với bọn mình!<br>
 Chúc các bạn xem film vui vẻ!<br><br>
 <b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Majo%20no%20Tabitabi.md">DDL</a></b> <br>
 </center>
