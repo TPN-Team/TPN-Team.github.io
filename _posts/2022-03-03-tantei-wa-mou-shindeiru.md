@@ -18,7 +18,7 @@ Một ngày nọ, khi chưa hiểu chuyện gì thì cậu bị tống cho một
 <hr>
 
 <b>Nhân sự:</b> tuilakhanh, Bố Vk<br>
-Chúc các bạn năm mới vui vẻ!<br><br>
+Chúc các bạn xem film vui vẻ!<br><br>
 <b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Tantei%20wa%20Mou%2C%20Shindeiru..md">DDL</a></b> <br>
 </center>
 <!-- excerpt-end -->

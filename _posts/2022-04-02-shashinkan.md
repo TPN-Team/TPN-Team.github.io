@@ -11,7 +11,7 @@ comments: false
 <b>Số tập:</b> 1 <br>
 <b>Studio:</b> Studio Colorido <br>
 <b>Thể loại:</b> Drama, Slice of Life <br>
-<b>Nội dung:</b> Phim ngắn kể về tiệm chụp ảnh vào trước WWII.<br>
+<b>Nội dung:</b> Film ngắn kể về tiệm chụp ảnh vào trước WWII.<br>
 
 <hr>
 
