@@ -11,7 +11,7 @@ comments: false
 <b>Số tập:</b> 1 <br>
 <b>Studio:</b> Studio Colorido <br>
 <b>Thể loại:</b> Drama, Slice of Life <br>
-<b>Nội dung:</b> Film ngắn kể về tiệm chụp ảnh vào trước WWII.<br>
+<b>Nội dung:</b> Câu chuyện về người phụ nữ không bao giờ cười trước ống kính gần như suốt cả cuộc đời, tất cả gói gọn trong 17 phút. Xem khá là chill, và đây là hàng tự làm của nhóm 100% nhé 🐧.<br>
 
 <hr>
 
