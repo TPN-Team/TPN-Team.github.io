@@ -16,7 +16,7 @@ comments: false
 <hr>
 
 <b>Nhân sự:</b> Josée, DnK, Kioz (Rác Rưởi) <br>
-Cảm ơn <b>Olshiro</b>(Movie) và <b>Koga</b> (Phần còn lại) đã làm ra bản dịch chất lượng này. <br>
+Cảm ơn <b>Olshiro</b> (Movie 2) và <b>Koga</b> (Phần còn lại) đã làm ra bản dịch chất lượng này. <br>
 Chúc các bạn xem film vui vẻ!<br><br>
 <b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Chuunibyou%20demo%20Koi%20ga%20Shitai!.md">DDL</a></b> <br>
 </center>
