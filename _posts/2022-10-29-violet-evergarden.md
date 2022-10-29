@@ -6,7 +6,7 @@ tags: [Violet Evergarden]
 comments: false
 ---
 
-![Thumb](https://tpn-team.github.io/assets/img/VioletEvergraden_thumb.jpg){: .mx-auto.d-block :}
+![Thumb](https://tpn-team.github.io/assets/img/VioletEvergarden_thumb.jpg){: .mx-auto.d-block :}
 <center>
 <b>Số tập:</b> 13 + 1 Movies <br>
 <b>Studio:</b> Kyoto Animation <br>
@@ -18,6 +18,6 @@ comments: false
 <b>Nhân sự:</b> Josée <br>
 Cảm ơn <b>YamiSora</b> đã làm ra bản dịch chất lượng này. <br>
 Chúc các bạn xem film vui vẻ!<br><br>
-<b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Violet%20Evergraden.md">DDL</a></b> <br>
+<b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Violet%20Evergarden.md">DDL</a></b> <br>
 </center>
 <!-- excerpt-end -->
