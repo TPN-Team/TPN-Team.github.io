@@ -2,7 +2,7 @@
 layout: post
 title: "Tonikaku Kawaii: SNS - BD"
 share-description: ""
-tags: [Tonikaku Kawaii SNS]
+tags: [Tonikaku Kawaii]
 comments: false
 ---
 
