@@ -2,7 +2,7 @@
 layout: post
 title: "Koutetsujou no Kabaneri: Unato Kessen - BD"
 share-description: ""
-tags: [Kutetsujou no Kabaneri: Unato Kessen]
+tags: [Kutetsujou no Kabaneri]
 comments: false
 ---
 

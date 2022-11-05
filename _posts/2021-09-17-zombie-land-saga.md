@@ -2,7 +2,7 @@
 layout: post
 title: "Zombie Land Saga - BD"
 share-description: ""
-tags: [ZSL SS1]
+tags: [Zombie Land Saga]
 comments: false
 ---
 
