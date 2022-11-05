@@ -18,6 +18,6 @@ comments: false
 <b>Nhân sự:</b> Josée <br>
 Cảm ơn <b>Clip-sub - YamiSora (Season 1)</b> và <b>Crazy-sol (Season 2)</b> đã làm ra bản dịch chất lượng này. <br>
 Chúc các bạn xem film vui vẻ!<br><br>
-<b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Violet%20Evergarden.md">DDL</a></b> <br>
+<b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Arakawa%20Under%20the%20Bridge.md">DDL</a></b> <br>
 </center>
 <!-- excerpt-end -->
