@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Demi-chan wa Kataritai - BDrevise"
+title: "Demi-chan wa Kataritai - BD"
 share-description: ""
 tags: [Demi-chan wa Kataritai]
 comments: false
