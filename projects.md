@@ -8,7 +8,7 @@ title: Projects
 | Project | Info |
 | :--- | :--- |
 | ![3-gatsu no Lion](https://tpn-team.github.io/assets/img/3gatsu.jpg) | **3-gatsu no Lion** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/3-gatsu%20no%20Lion.md) <br><br> **Nhân Sự**: Josée |
-| ![86](https://tpn-team.github.io/assets/img/86.jpg) | **86 - Eight Six** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/86%20-%20Eight%20Six.md) <br><br> **Nhân Sự**: tuilakhanh |
+| ![86](https://tpn-team.github.io/assets/img/86.jpg) | **86 - Eight Six** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/86%20-%20Eight%20Six.md) <br><br> **Nhân Sự**: tuilakhanh, KhD4ng |
 | ![Accel World](https://tpn-team.github.io/assets/img/Accel_World.jpg) | **Accel World** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Accel%20World.md) <br><br> **Nhân Sự**: Sơn Đầu Hoà, Kiếm Phong Kim |
 | ![Akame ga Kill!](https://tpn-team.github.io/assets/img/akame.jpg) | **Akame ga Kill!** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Akame%20ga%20Kill!.md) <br><br> **Nhân Sự**: tuilakhanh |
 | ![Akebi-chan no Sailor Fuku](https://tpn-team.github.io/assets/img/AkebichannoSailorFuku.jpg) | **Akebi-chan no Sailor Fuku** <br><br> **Status**: BD complete <br> [DDL](https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Akebi-chan%20no%20Sailor%20Fuku.md) <br><br> **Nhân Sự**: Josée |
