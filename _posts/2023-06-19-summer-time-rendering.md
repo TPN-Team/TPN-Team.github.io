@@ -17,7 +17,7 @@ comments: false
 
 <b>Nhân sự:</b> Josée <br>
 Cảm ơn <b>Clip-sub</b> đã làm ra bản dịch chất lượng này. <br>
-Thank you </b>neoHEVC</b> for thumbnail! 
+Thank you <b>neoHEVC</b> for thumbnail! 
 Chúc các bạn xem film vui vẻ!<br><br>
 <b><a href="https://github.com/TPN-Team/TPN-Team-DDL/blob/master/Summer%20Time%20Render.md">DDL</a></b> <br>
 </center>
